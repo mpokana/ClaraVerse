@@ -1,6 +1,6 @@
 import React from 'react';
 import { X } from 'lucide-react';
-import SynchronizedImageViewer from './SynchronizedImageViewer';
+{/*import SynchronizedImageViewer from './SynchronizedImageViewer';"\}
 
 interface ImageViewModalProps {
   imageUrl: string | null;
